@@ -1,0 +1,5 @@
+version: '3'
+services:
+  helloworld:
+    container_name: helloworld
+    build: .
